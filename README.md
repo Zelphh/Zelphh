@@ -1,4 +1,4 @@
-# 👋 Zelph (Matheus Melle Tártari)
+# Zelph (Matheus Melle Tártari)
 **`Digital Craftsman (Desenvlvedor Backend / Estudante)`**
 
 Atualmente, aos 18 anos, estou começando a faculdade de Análise e desenvolvimento de Sistemas na UDESC (Joinville - SC), tenho planos de me tornar um desenvolvedor Full Stack no futuro. Essa ambição está me ajudando a compreender melhor todo o ciclo de vida do desenvolvimento de software, desde a concepção até a implementação. Se você estiver interessado em discutir ideias, colaborar em projetos ou simplesmente trocar experiências no campo da tecnologia, adoraria me conectar com você :D
@@ -39,5 +39,3 @@ Atualmente, aos 18 anos, estou começando a faculdade de Análise e desenvolvime
 
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=zelphh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelphh&layout=compact&langs_count=6&theme=github_dark"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zelphh&theme=github_dark" alt="zelphh" /></p>
