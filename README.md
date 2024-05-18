@@ -1,11 +1,11 @@
-# Zelph (Matheus Melle Tártari)
+# Matheus Melle Tártari (Zelph)
 **`Digital Craftsman (Desenvlvedor Backend / Estudante)`**
 
 Atualmente, aos 18 anos, estou começando a faculdade de Análise e desenvolvimento de Sistemas na UDESC (Joinville - SC), tenho planos de me tornar um desenvolvedor Full Stack no futuro. Essa ambição está me ajudando a compreender melhor todo o ciclo de vida do desenvolvimento de software, desde a concepção até a implementação. Se você estiver interessado em discutir ideias, colaborar em projetos ou simplesmente trocar experiências no campo da tecnologia, adoraria me conectar com você :D
 
 ### Meios de contato: 
 <a href="https://www.instagram.com/maths.mt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:matheusmtartari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:matheusmtartari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0F9D58?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheusmellet%C3%A1rtari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ---
@@ -27,12 +27,12 @@ Atualmente, aos 18 anos, estou começando a faculdade de Análise e desenvolvime
 
 #
 
-### ⏲️ Pretendo aprender:
+### 🕓 Pretendo aprender:
 
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <br />
 
 ---
