@@ -1,7 +1,9 @@
 # Matheus Melle Tártari (Zelph)
 **`Digital Craftsman (Desenvlvedor Backend / Estudante)`**
 
-Atualmente, aos 18 anos, estou começando a faculdade de Análise e desenvolvimento de Sistemas na UDESC (Joinville - SC), tenho planos de me tornar um desenvolvedor Full Stack no futuro. Essa ambição está me ajudando a compreender melhor todo o ciclo de vida do desenvolvimento de software, desde a concepção até a implementação. Se você estiver interessado em discutir ideias, colaborar em projetos ou simplesmente trocar experiências no campo da tecnologia, adoraria me conectar com você :D
+🎓 Atualmente curso Análise e Desenvolvimento de Sistemas na UDESC (Joinville - SC). Tenho interesse na área do desenvolvimento Back-End e pretendo, em um futuro não muito distante, atuar como Full Stack para entender melhor todo o ciclo de vida do software.
+
+💡 Sou movido pela curiosidade e pela vontade de resolver problemas com tecnologia. Busco constantemente aprender por meio de cursos e projetos pessoais.
 
 ### Meios de contato: 
 <a href="https://www.instagram.com/maths.mt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
