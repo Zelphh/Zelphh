@@ -1,12 +1,21 @@
+<table>
+  <tr>
+    <td valign="top" width="65%">
+
 # Matheus Melle Tártari
-**`Digital Craftsman (Desenvolvedor Full Stack)`**
+**`Desenvolvedor Full Stack`**
 
-🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UDESC (Joinville - SC)**.  
-Tenho interesse na área de **Back-End** e pretendo, em um futuro não muito distante, atuar como **Full Stack** para entender melhor todo o ciclo de vida do software.
+🚀 Atualmente **estagiário Full Stack** na **HSP Software**  
+🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **UDESC**  
+🧠 Gosto da ideia de **tornar o que eu quero possível**  
+⚙️ Interassado por **desafios, aprendizado e oportunidades**
 
-💡 Sou movido pela curiosidade e pela vontade de resolver problemas com tecnologia. Busco constantemente aprender por meio de cursos e projetos pessoais.
-
-<br>
+  </td>
+  <td align="center" width="35%">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE4MzN1MzNycGhoemY3ZncydnA5eW9jb3Uycm9nNWNrcWhzNW5ndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif" width="250"/>
+  </td>
+  </tr>
+</table>
 
 ## 🌐 Meios de contato
 
