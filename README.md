@@ -1,6 +1,6 @@
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="65%">
+    <td width="60%" valign="top">
 
 # Matheus Melle Tártari
 **`Desenvolvedor Full Stack`**
@@ -11,8 +11,8 @@
 ⚙️ Interassado por **desafios, aprendizado e oportunidades**
 
   </td>
-  <td align="center" width="35%">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE4MzN1MzNycGhoemY3ZncydnA5eW9jb3Uycm9nNWNrcWhzNW5ndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif" width="250"/>
+  <td width="40%" align="center">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE4MzN1MzNycGhoemY3ZncydnA5eW9jb3Uycm9nNWNrcWhzNW5ndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif" width="300"/>
   </td>
   </tr>
 </table>
@@ -28,23 +28,17 @@
   </a>
 </p>
 
-<br>
-
 ## 🧰 Linguagens e Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs,react,python,c,mysql,postgres,git,postman," />
 </p>
-<br>
 
 ## 🕓 Pretendo aprender
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,rust,docker,aws" />
 </p>
-<br>
-
-
 
 ## 📊 GitHub Stats
 
