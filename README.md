@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs,react,python,c,mysql,postgres,git,postman," />
 </p>
 
-## 🕓 Pretendo aprender
+## 📖 Estudando atualmente
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,rust,docker,aws" />
