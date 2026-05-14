@@ -37,7 +37,7 @@
 ## 📖 Estudando atualmente
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,rust,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=rust,docker,tauri" />
 </p>
 
 ## 📊 GitHub Stats
