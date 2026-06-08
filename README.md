@@ -1,3 +1,13 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4f46e5&height=180&section=header&text=Matheus%20Melle%20T%C3%A1rtari&fontSize=36&fontColor=ffffff&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&width=435&lines=Full+Stack+Developer;UDESC+%7C+HSP+Software;Rust+%26+Docker+learner)](https://git.io/typing-svg)
+
+</div>
+
+---
+<div align="center">
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
@@ -16,6 +26,9 @@
   </td>
   </tr>
 </table>
+</div>
+
+---
 
 ## 🌐 Meios de contato
 
@@ -28,17 +41,27 @@
   </a>
 </p>
 
-## 🧰 Linguagens e Ferramentas
+---
+
+## 💼 Stack profissional
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs,react,python,c,mysql,postgres,git,postman," />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,mysql,rust,git" />
+</p>
+
+## 🧰 Outras linguagens e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,typescript,python,c,postman" />
 </p>
 
 ## 📖 Estudando atualmente
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,docker,tauri" />
+  <img src="https://skillicons.dev/icons?i=nextjs,docker,tauri" />
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -47,3 +70,18 @@
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=zelphh&layout=compact&langs_count=6&theme=github_dark"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zelphh&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zelphh&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:1a1a2e&height=100&section=footer)
+
+</div>
