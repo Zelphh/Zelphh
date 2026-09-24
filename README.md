@@ -1,6 +1,6 @@
 <div align="center">
 
-![ascii-profile](./ascii-profile.svg)
+![ascii-profile](./ascii-profile-default.svg)
 
 </div>
 
